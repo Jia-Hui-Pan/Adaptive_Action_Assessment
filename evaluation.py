@@ -16,7 +16,7 @@ import torch.utils.data as Data
 import argparse
 from torch.nn import init
 from torch.optim.lr_scheduler import *
-from model_JRG10_com5_v8 import *
+from model.model_JRG10_com5_v8 import *
 import time
 import shutil
 import random
