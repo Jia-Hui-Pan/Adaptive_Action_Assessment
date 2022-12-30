@@ -13,8 +13,8 @@ conda activate assessment
 
 
  Please follow the instructions for testing the model's performance in the AQA-7 dataset.
- 1. Download the features to the "./feature" directory
- 2. Download the checkpoints to the "./checkpoints"
+ 1. Download and extract the [features](https://drive.google.com/file/d/1N8ZT9yxT9p7T1A9zjVogtXsC35QHCvWQ/view?usp=sharing) to the "./feature" directory
+ 2. Download and extract the [checkpoints](https://drive.google.com/file/d/1rfFzLiM0imm8zcvrHVdeLWO2_7twnzjw/view?usp=sharing) to the "./checkpoints"
  3. Run the evaluation code. 
 ```
 python evaluation.py -gpu=0 -mode=structure -set-id=0 -loss-type=new_mse
