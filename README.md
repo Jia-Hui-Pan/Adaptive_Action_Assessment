@@ -18,6 +18,7 @@ conda activate assessment
  3. Run the evaluation code. 
 ```
 python evaluation.py -gpu=0 -mode=structure -set-id=0 -loss-type=new_mse
+
 # The '-set-id' can be set as 0, 1, 2, 3, 4 or 5, 
 # each representing one type of action in the AQA-7 dataset.
 ```
