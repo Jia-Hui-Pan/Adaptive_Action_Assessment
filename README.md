@@ -13,7 +13,7 @@ conda activate assessment
 ```
 
 
- Please follow the instructions for testing the model's performance in the AQA-7 dataset.
+ Please follow the instructions for testing the model's performance on the AQA-7 dataset.
  1. Download and extract the [features](https://drive.google.com/file/d/1N8ZT9yxT9p7T1A9zjVogtXsC35QHCvWQ/view?usp=sharing) to the "./feature" directory.
  2. Download and extract the [checkpoints](https://drive.google.com/file/d/1rfFzLiM0imm8zcvrHVdeLWO2_7twnzjw/view?usp=sharing) to the "./checkpoints" directory.
  3. Run the evaluation code. 
