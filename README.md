@@ -6,7 +6,7 @@
 This repository is for our TPAMI 2021 paper "[Adaptive Action Assessment](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9609694)" which proposes to adaptively design different assessment architectures for different types of actions.
 
 <div style="text-align: center;">
-    <img style="border-radius: 0.3125em;
+    <img style="border-radius: 0.5125em;
     width: 88%;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src=./teaser_adaptive_action_assessment.jpg alt="">
