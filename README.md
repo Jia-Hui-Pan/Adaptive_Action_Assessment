@@ -1,5 +1,5 @@
 <h1 align = "center"> Adaptive Action Assessment </center></h1>
-<h4 align = "center"><a href="https://scholar.google.com/citations?user=c0UQD6oAAAAJ&hl=zh-CN">Jia-Hui Pan</a>, Jibin Gao, and Wei-Shi Zheng</h4>
+<h4 align = "center"><a href="https://scholar.google.com/citations?user=c0UQD6oAAAAJ&hl=zh-CN">Jia-Hui Pan</a>, <a href="https://scholar.google.com/citations?user=c0UQD6oAAAAJ&hl=zh-CN">Jibin Gao</a>, and <a href="https://scholar.google.com/citations?user=AwqDDGoAAAAJ&hl=zh-CN">Wei-Shi Zheng</a></h4>
 <h4 align = "center">Sun Yat-sen University.</h4>
 
 ### Introduction
