@@ -1,8 +1,8 @@
-<h2 align = "center"> Adaptive Action Assessment </center></h2>
+<h1 align = "center"> Adaptive Action Assessment </center></h1>
 <h4 align = "center">Jia-Hui Pan<sup>1</sup>, Jibin Gao<sup>1</sup>, and Wei-Shi Zheng<sup>1</sup></h4>
 <h4 align = "center"> <sup>1</sup>Sun Yat-sen University.</h4>
 
-#### Introduction
+### Introduction
 This repository is for our TPAMI 2021 paper "[Adaptive Action Assessment](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9609694)" which proposes to adaptively design different assessment architectures for different types of actions.
 
 <div style="text-align: center;">
@@ -13,7 +13,7 @@ This repository is for our TPAMI 2021 paper "[Adaptive Action Assessment](https:
     <br>
 </div>
 
-#### Network Architecture
+### Network Architecture
 The overall structure of the proposed network is shown below. Our model takes the whole-scene and local-patch videos (with the local patches cropped around joints) as
 input and extracts video features by I3D Network. Then our model performs interactive joint motion pattern modelling with the local-patch features by
 learning body part kinetics and joint coordination on trainable joint relation graphs. The interactive joint motion patterns and the whole-scene features
@@ -28,7 +28,7 @@ are concatenated to form a motion tensor. After that, our model learns a specifi
 </div>
 
 
-#### Installation
+### Installation
  Use Conda to install the environment. For example,
 ```
 conda env create -f environment.yml
