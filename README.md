@@ -1,6 +1,6 @@
 <h1 align = "center"> Adaptive Action Assessment </center></h1>
-<h4 align = "center">Jia-Hui Pan<sup>1</sup>, Jibin Gao<sup>1</sup>, and Wei-Shi Zheng<sup>1</sup></h4>
-<h4 align = "center"> <sup>1</sup>Sun Yat-sen University.</h4>
+<h4 align = "center"><a href="https://scholar.google.com/citations?user=c0UQD6oAAAAJ&hl=zh-CN">Jia-Hui Pan</a>, Jibin Gao, and Wei-Shi Zheng</h4>
+<h4 align = "center">Sun Yat-sen University.</h4>
 
 ### Introduction
 This repository is for our TPAMI 2021 paper "[Adaptive Action Assessment](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9609694)" which proposes to adaptively design different assessment architectures for different types of actions.
