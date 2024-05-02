@@ -7,7 +7,7 @@ This repository is for our TPAMI 2021 paper "[Adaptive Action Assessment](https:
 
 <div style="text-align: center;">
     <img style="border-radius: 0.3125em;
-    width: 98%;
+    width: 88%;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src=./teaser_adaptive_action_assessment.jpg alt="">
     <br>
