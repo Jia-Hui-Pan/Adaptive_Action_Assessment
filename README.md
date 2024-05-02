@@ -9,7 +9,7 @@ This repository is for our TPAMI 2021 paper "[Adaptive Action Assessment](https:
     <img style="border-radius: 0.3125em;
     width: 98%;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src=./figures/teaser_adaptive_action_assessment.jpg alt="">
+    src=./teaser_adaptive_action_assessment.jpg alt="">
     <br>
 </div>
 
@@ -22,7 +22,7 @@ are concatenated to form a motion tensor. After that, our model learns a specifi
     <img style="border-radius: 0.3125em;
     width: 98%;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src=./figures/framework_adaptive_action_assessment.jpg alt="">
+    src=./framework_adaptive_action_assessment.jpg alt="">
     <br>
 </div>
 
