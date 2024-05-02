@@ -1,4 +1,4 @@
-<h2 align = "center"> Adaptive_Action_Assessment </center></h2>
+<h2 align = "center"> Adaptive Action Assessment </center></h2>
 <h4 align = "center">Jia-Hui Pan<sup>1</sup>, Jibin Gao<sup>1</sup>, and Wei-Shi Zheng<sup>1</sup></h4>
 <h4 align = "center"> <sup>1</sup>Sun Yat-sen University.</h4>
 
